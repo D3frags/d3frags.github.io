@@ -1,5 +1,5 @@
 ---
-title: Arma 3 Docs Test
+title: Arma 3 Task Force Arrowhead Radio Guide
 date: 2025-11-10 13:15:27 -0500
 categories: [Arma 3, Tutorials]
 tags: [tutorial, arma3, tfar]     # TAG names should always be lowercase
