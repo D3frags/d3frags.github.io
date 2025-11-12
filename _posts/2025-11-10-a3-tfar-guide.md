@@ -23,10 +23,10 @@ Task force radio is now installed. Yay!
 
 ## Keybinds
 
-| Keybind     | Action                               |
-| ----------- | ------------------------------------ |
-| CAPS        | Short Range Radio Broadcast          |
-| CTRL + CAPS | Long Range Radio Broadcast           |
-| CTRL + P    | Short Range Radio Configuration Menu |
-| ALT + P     | Long Range Radio Configuration Menu  |
-| NUMPAD 1-9  | Cycle through preset Radio Channels  |
+| Keybind                  | Action                               |
+| ------------------------ | ------------------------------------ |
+| <kbd> CAPS </kbd>        | Short Range Radio Broadcast          |
+| <kbd> CTRL + CAPS </kbd> | Long Range Radio Broadcast           |
+| <kbd> CTRL + P </kbd>    | Short Range Radio Configuration Menu |
+| <kbd> ALT + P </kbd>     | Long Range Radio Configuration Menu  |
+| <kbd> NUMPAD 1-9 </kbd>  | Cycle through preset Radio Channels  |
